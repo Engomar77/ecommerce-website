@@ -1,0 +1,4 @@
+
+This project is an **automotive spare parts marketplace** where users can purchase car parts. Users can create their own "buyer" accounts by registering on the website. They can add any item to their wishlist or shopping cart, but they cannot add anything to the cart without logging into their accounts. Users can log in using their email and password. They can add parts to the cart, remove any parts they no longer like or need, delete individual products, or clear the entire cart. Additionally, users have the ability to update their information, such as email or password. Payment for parts is made upon delivery. 
+
+On the other hand, administrators can easily add car parts and publish their products on the website. The admin can also update, delete, or manage products and users on the site.
